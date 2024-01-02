@@ -22,8 +22,6 @@ export const footer_useful = [
   {name: 'Level up as a Developer'},
 ]
 
-
-
 export const demoSnippet = "import { logo, navigation } from '../utils/constant'"
 
 export const defaultTime = ''

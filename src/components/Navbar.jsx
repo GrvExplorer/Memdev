@@ -7,13 +7,14 @@ function Navbar() {
      <nav className="flex items-center justify-between padding">
       <div className="flex items-center gap-10">
         <BrandLogo logo={logo} />
-        <ul className="flex gap-6">
+        <ul className="hidden gap-6 md:flex">
           {navigation.map(({ name }, i) => (
             <li className="text" key={i}>
               <a href="">{name}</a>
             </li>
           ))}
         </ul>
+
       </div>
 
       <div className="">

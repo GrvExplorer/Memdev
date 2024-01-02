@@ -41,4 +41,7 @@
   .logo-name {
     @apply text-2xl font-bold tracking-wider;
   }
+  .add-button {
+    @apply rounded-full m-2 bg-Primary absolute text-3xl font-bold text-bg h-10 w-10 justify-center 
+  }
 }

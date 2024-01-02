@@ -1,6 +1,8 @@
 
 # Welcome! 👋 ( Mem.dev )
 
+<a href="https://memdev.vercel.app/" target="_blank" rel="noreferrer"> <img src="./src/assets/app.png" alt="react" /> </a> 
+
 # Technologies used 
 <!-- react logo -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <!-- vite logo --><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="react" width="40" height="40"/> </a> <!-- tailwindcss logo -->
